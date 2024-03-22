@@ -1,0 +1,37 @@
+**Calculus 1: Derivatives**
+
+**Introduction:**
+
+* Definition of a derivative as the instantaneous rate of change of a function.
+* Geometric interpretation of the derivative as the slope of a tangent line.
+
+**Techniques for Finding Derivatives:**
+
+* Limit definition of the derivative
+* Power rule
+* Product rule
+* Quotient rule
+* Chain rule
+
+**Applications of Derivatives:**
+
+* Finding local extrema (maximums and minimums)
+* Optimization problems
+* Related rates problems
+* Curve sketching (identifying critical points, concavity, and points of inflection)
+
+**Additional Concepts:**
+
+* Rolle's Theorem: If a function is continuous on a closed interval and differentiable on the open interval, then it has at least one zero on the interval.
+* Mean Value Theorem: If a function is continuous on a closed interval and differentiable on the open interval, then there exists a number c in the interval such that the instantaneous rate of change at c is equal to the average rate of change over the interval.
+
+**Higher Derivatives and Applications:**
+
+* Second derivative: Used to determine concavity and inflection points.
+* Third derivative and beyond: Useful in higher-level applications.
+
+**Advanced Topics:**
+
+* Implicit differentiation: Finding the derivative of a function defined implicitly.
+* Parametrized curves: Finding the velocity and acceleration of a curve.
+* L'Hopital's Rule: Used to evaluate limits of indeterminate forms.
