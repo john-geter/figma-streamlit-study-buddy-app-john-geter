@@ -3,7 +3,7 @@ import google.generativeai as genai
 from PIL import Image
 from functools import partial
 
-genai.configure(api_key='AIzaSyCnMvBNuAImVy5ezCjp8SKWcDNluZNj2-s')
+genai.configure(api_key='--------------------------')
 
 def click_go_button():
     st.session_state.buttonState = True
